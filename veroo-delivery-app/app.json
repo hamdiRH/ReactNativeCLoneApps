@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Veroo",
+    "slug": "veroo-delivery-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "orientation": "portrait"
+  },
+  "name": "Veroo"
+}
